@@ -1,0 +1,202 @@
+[
+  {
+    "id": "hg-001",
+    "name": "ErgoRise Standing Desk Converter",
+    "description": "Height-adjustable standing desk converter with gas spring, fits on any desk. 32-inch wide.",
+    "price": 249.99,
+    "category": "desk_accessories",
+    "brand": "ErgoRise",
+    "stock": 20,
+    "specs": {"width": "32 inches", "height_range": "4.5\" - 20\"", "weight_capacity": "35 lbs", "mechanism": "Gas spring"}
+  },
+  {
+    "id": "hg-002",
+    "name": "LumiDesk LED Desk Lamp",
+    "description": "Architect-style LED desk lamp with adjustable color temperature, USB charging port, clamp mount.",
+    "price": 59.99,
+    "category": "lighting",
+    "brand": "LumiDesk",
+    "stock": 45,
+    "specs": {"brightness": "1200 lumens", "color_temp": "2700K-6500K", "features": "USB-A charge port, memory function", "mount": "Clamp or base"}
+  },
+  {
+    "id": "hg-003",
+    "name": "LumiDesk Monitor Light Bar",
+    "description": "Screenbar-style monitor light with auto-dimming sensor, zero screen glare.",
+    "price": 44.99,
+    "category": "lighting",
+    "brand": "LumiDesk",
+    "stock": 60,
+    "specs": {"brightness": "500 lumens", "color_temp": "2700K-6500K", "sensor": "Auto-dimming ambient light", "power": "USB"}
+  },
+  {
+    "id": "hg-004",
+    "name": "DeskTidy Cable Management Kit",
+    "description": "Complete cable management set: cable tray, 20 clips, 5 velcro straps, 2 cable sleeves.",
+    "price": 29.99,
+    "category": "organizers",
+    "brand": "DeskTidy",
+    "stock": 100,
+    "specs": {"includes": "1 under-desk tray, 20 adhesive clips, 5 velcro straps, 2 cable sleeves", "tray_length": "16 inches"}
+  },
+  {
+    "id": "hg-005",
+    "name": "DeskTidy Desktop Organizer",
+    "description": "Bamboo desktop organizer with phone stand, pen holder, 3 compartments, and drawer.",
+    "price": 34.99,
+    "category": "organizers",
+    "brand": "DeskTidy",
+    "stock": 55,
+    "specs": {"material": "Natural bamboo", "compartments": "3 + drawer", "features": "Phone/tablet stand, pen holder"}
+  },
+  {
+    "id": "hg-006",
+    "name": "ErgoRise Monitor Arm",
+    "description": "Gas spring single monitor arm for 17-32\" displays, full range of motion, cable management.",
+    "price": 89.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 30,
+    "specs": {"compatibility": "17-32\" displays up to 19.8 lbs", "mounting": "C-clamp / grommet", "range": "360° rotation, ±45° tilt"}
+  },
+  {
+    "id": "hg-007",
+    "name": "ErgoRise Dual Monitor Arm",
+    "description": "Heavy-duty dual monitor arm supporting two 27\" displays, independent adjustment.",
+    "price": 149.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 18,
+    "specs": {"compatibility": "2x 17-27\" displays up to 14.3 lbs each", "mounting": "C-clamp / grommet", "range": "Full articulation"}
+  },
+  {
+    "id": "hg-008",
+    "name": "ComfortZone Ergonomic Footrest",
+    "description": "Adjustable under-desk footrest with massage surface, 20-degree tilt range.",
+    "price": 39.99,
+    "category": "ergonomic",
+    "brand": "ComfortZone",
+    "stock": 40,
+    "specs": {"surface": "Textured massage", "tilt": "0-20 degrees", "dimensions": "17.5\" x 13\"", "material": "ABS plastic, rubber base"}
+  },
+  {
+    "id": "hg-009",
+    "name": "ComfortZone Gel Wrist Rest Keyboard",
+    "description": "Full-size keyboard wrist rest with cooling gel pad and memory foam base.",
+    "price": 19.99,
+    "category": "ergonomic",
+    "brand": "ComfortZone",
+    "stock": 75,
+    "specs": {"size": "17.3\" x 3.5\"", "fill": "Cooling gel + memory foam", "cover": "Lycra fabric, machine washable"}
+  },
+  {
+    "id": "hg-010",
+    "name": "ComfortZone Gel Wrist Rest Mouse",
+    "description": "Mouse wrist rest with ergonomic gel cushion, non-slip rubber base.",
+    "price": 14.99,
+    "category": "ergonomic",
+    "brand": "ComfortZone",
+    "stock": 80,
+    "specs": {"size": "5.5\" x 3.5\"", "fill": "Cooling gel", "cover": "Lycra fabric"}
+  },
+  {
+    "id": "hg-011",
+    "name": "FreshAir Desktop Air Purifier",
+    "description": "Compact desktop HEPA air purifier for personal workspace, whisper-quiet operation.",
+    "price": 79.99,
+    "category": "desk_accessories",
+    "brand": "FreshAir",
+    "stock": 25,
+    "specs": {"filter": "True HEPA H13", "coverage": "100 sq ft", "noise": "24 dB (low)", "speed": "3 settings"}
+  },
+  {
+    "id": "hg-012",
+    "name": "LumiDesk Smart Ambient Light Strip",
+    "description": "RGBWW LED strip for desk back-lighting, app-controlled, sync with screen content.",
+    "price": 34.99,
+    "category": "lighting",
+    "brand": "LumiDesk",
+    "stock": 50,
+    "specs": {"length": "2 meters", "leds": "60/m RGBWW", "control": "App / voice (Alexa, Google)", "power": "USB"}
+  },
+  {
+    "id": "hg-013",
+    "name": "DeskTidy Magnetic Whiteboard",
+    "description": "Frameless magnetic glass whiteboard for wall or desktop use, 24x18 inches.",
+    "price": 49.99,
+    "category": "organizers",
+    "brand": "DeskTidy",
+    "stock": 20,
+    "specs": {"size": "24\" x 18\"", "material": "Tempered glass", "mounting": "Wall mount or desktop stand", "includes": "3 markers, eraser, 4 magnets"}
+  },
+  {
+    "id": "hg-014",
+    "name": "ErgoRise Laptop Stand",
+    "description": "Aluminum laptop stand with ventilation, adjustable height, fits 10-17\" laptops.",
+    "price": 44.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 35,
+    "specs": {"material": "Aluminum alloy", "compatibility": "10-17\" laptops", "height": "6 levels adjustable", "ventilation": "Open-air design"}
+  },
+  {
+    "id": "hg-015",
+    "name": "SoundScape White Noise Machine",
+    "description": "Desktop white noise machine with 30 soundscapes, timer, compact design.",
+    "price": 39.99,
+    "category": "desk_accessories",
+    "brand": "SoundScape",
+    "stock": 30,
+    "specs": {"sounds": "30 soundscapes", "timer": "30/60/90 min or continuous", "power": "USB or battery", "volume": "Adjustable"}
+  },
+  {
+    "id": "hg-016",
+    "name": "PlantLife Desktop Succulent Planter",
+    "description": "Set of 3 modern geometric concrete planters with bamboo tray, includes drainage.",
+    "price": 24.99,
+    "category": "desk_accessories",
+    "brand": "PlantLife",
+    "stock": 40,
+    "specs": {"quantity": "3 planters", "material": "Concrete with bamboo tray", "sizes": "3\", 3.5\", 4\" diameter", "drainage": "Yes"}
+  },
+  {
+    "id": "hg-017",
+    "name": "ChargePad 3-in-1 Wireless Charger",
+    "description": "Wireless charging station for phone, earbuds, and watch simultaneously.",
+    "price": 49.99,
+    "category": "desk_accessories",
+    "brand": "ChargePad",
+    "stock": 35,
+    "specs": {"phone": "15W Qi", "earbuds": "5W", "watch": "Magnetic 5W", "compatibility": "iPhone/Android, AirPods, Apple Watch"}
+  },
+  {
+    "id": "hg-018",
+    "name": "ErgoRise Keyboard Tray",
+    "description": "Under-desk keyboard tray with mouse platform, smooth glide rails, tilt adjustment.",
+    "price": 69.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 15,
+    "specs": {"tray_size": "25\" x 12\"", "mouse_pad": "Included, removable", "mounting": "Under-desk clamp", "tilt": "-15° to +15°"}
+  },
+  {
+    "id": "hg-019",
+    "name": "DeskTidy File Sorter",
+    "description": "Metal mesh 5-tier vertical file sorter with label holders, matte black finish.",
+    "price": 22.99,
+    "category": "organizers",
+    "brand": "DeskTidy",
+    "stock": 45,
+    "specs": {"tiers": "5", "material": "Steel mesh", "dimensions": "12\" x 9\" x 13\"", "finish": "Matte black"}
+  },
+  {
+    "id": "hg-020",
+    "name": "ComfortZone Anti-Fatigue Mat",
+    "description": "Standing desk anti-fatigue mat with contoured design, beveled edges, 20x34 inches.",
+    "price": 54.99,
+    "category": "ergonomic",
+    "brand": "ComfortZone",
+    "stock": 25,
+    "specs": {"size": "20\" x 34\" x 0.75\"", "material": "PU foam core", "surface": "Non-slip, beveled edges", "density": "High-density supportive"}
+  }
+]

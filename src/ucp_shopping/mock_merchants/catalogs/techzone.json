@@ -1,0 +1,202 @@
+[
+  {
+    "id": "tz-001",
+    "name": "ProBook 15 Laptop",
+    "description": "15.6-inch business laptop with Intel i7, 16GB RAM, 512GB SSD. Perfect for professionals.",
+    "price": 899.99,
+    "category": "laptops",
+    "brand": "ProBook",
+    "stock": 25,
+    "specs": {"processor": "Intel i7-13700H", "ram": "16GB DDR5", "storage": "512GB NVMe SSD", "display": "15.6\" FHD IPS"}
+  },
+  {
+    "id": "tz-002",
+    "name": "UltraSlim 14 Laptop",
+    "description": "Lightweight 14-inch ultrabook with AMD Ryzen 7, 16GB RAM, 1TB SSD. Under 3 pounds.",
+    "price": 1049.99,
+    "category": "laptops",
+    "brand": "UltraSlim",
+    "stock": 12,
+    "specs": {"processor": "AMD Ryzen 7 7840U", "ram": "16GB LPDDR5", "storage": "1TB NVMe SSD", "display": "14\" 2.8K OLED", "weight": "2.8 lbs"}
+  },
+  {
+    "id": "tz-003",
+    "name": "MechStrike Pro Mechanical Keyboard",
+    "description": "Full-size mechanical keyboard with Cherry MX Brown switches, RGB backlighting, aluminum frame.",
+    "price": 129.99,
+    "category": "keyboards",
+    "brand": "MechStrike",
+    "stock": 50,
+    "specs": {"switches": "Cherry MX Brown", "layout": "Full-size", "backlight": "RGB per-key", "connection": "USB-C / Bluetooth"}
+  },
+  {
+    "id": "tz-004",
+    "name": "MechStrike Mini 65% Keyboard",
+    "description": "Compact 65% mechanical keyboard with hot-swappable switches and wireless connectivity.",
+    "price": 89.99,
+    "category": "keyboards",
+    "brand": "MechStrike",
+    "stock": 35,
+    "specs": {"switches": "Gateron Red (hot-swap)", "layout": "65%", "backlight": "RGB", "connection": "USB-C / Bluetooth 5.0"}
+  },
+  {
+    "id": "tz-005",
+    "name": "PrecisionGlide Wireless Mouse",
+    "description": "Ergonomic wireless mouse with 25,600 DPI optical sensor, 70-hour battery life.",
+    "price": 69.99,
+    "category": "mice",
+    "brand": "PrecisionGlide",
+    "stock": 80,
+    "specs": {"sensor": "25600 DPI optical", "buttons": "6 programmable", "battery": "70 hours", "connection": "2.4GHz / Bluetooth"}
+  },
+  {
+    "id": "tz-006",
+    "name": "PrecisionGlide Ultra Light Gaming Mouse",
+    "description": "Ultra-lightweight gaming mouse at 58g with paracord cable and PTFE feet.",
+    "price": 49.99,
+    "category": "mice",
+    "brand": "PrecisionGlide",
+    "stock": 60,
+    "specs": {"sensor": "16000 DPI", "weight": "58g", "buttons": "5", "connection": "Wired USB-C"}
+  },
+  {
+    "id": "tz-007",
+    "name": "ClearView 27\" 4K Monitor",
+    "description": "27-inch 4K IPS monitor with USB-C PD, 100% sRGB, height-adjustable stand.",
+    "price": 449.99,
+    "category": "monitors",
+    "brand": "ClearView",
+    "stock": 15,
+    "specs": {"resolution": "3840x2160", "panel": "IPS", "refresh_rate": "60Hz", "ports": "USB-C PD 65W, HDMI 2.1, DP 1.4"}
+  },
+  {
+    "id": "tz-008",
+    "name": "ClearView 32\" Curved Gaming Monitor",
+    "description": "32-inch curved QHD gaming monitor with 165Hz refresh rate and 1ms response time.",
+    "price": 379.99,
+    "category": "monitors",
+    "brand": "ClearView",
+    "stock": 20,
+    "specs": {"resolution": "2560x1440", "panel": "VA curved", "refresh_rate": "165Hz", "response_time": "1ms"}
+  },
+  {
+    "id": "tz-009",
+    "name": "SoundStage Pro Wireless Headphones",
+    "description": "Over-ear wireless headphones with ANC, 40-hour battery, Hi-Res Audio certified.",
+    "price": 199.99,
+    "category": "headphones",
+    "brand": "SoundStage",
+    "stock": 40,
+    "specs": {"type": "Over-ear", "anc": "Active Noise Cancelling", "battery": "40 hours", "codec": "LDAC, aptX HD"}
+  },
+  {
+    "id": "tz-010",
+    "name": "SoundStage Buds ANC Earbuds",
+    "description": "True wireless earbuds with ANC, 8-hour battery, IPX5 water resistance.",
+    "price": 129.99,
+    "category": "headphones",
+    "brand": "SoundStage",
+    "stock": 55,
+    "specs": {"type": "True wireless", "anc": "Active Noise Cancelling", "battery": "8h + 24h case", "water_resistance": "IPX5"}
+  },
+  {
+    "id": "tz-011",
+    "name": "USB-C Docking Station Pro",
+    "description": "13-in-1 USB-C docking station with dual 4K display support, 100W PD passthrough.",
+    "price": 159.99,
+    "category": "accessories",
+    "brand": "TechZone",
+    "stock": 30,
+    "specs": {"ports": "3x USB-A, 2x USB-C, 2x HDMI, DP, Ethernet, SD, Audio", "power_delivery": "100W", "display": "Dual 4K@60Hz"}
+  },
+  {
+    "id": "tz-012",
+    "name": "Thunderbolt 4 Cable 2m",
+    "description": "Certified Thunderbolt 4 cable, 40Gbps data, 100W PD, 8K video support.",
+    "price": 39.99,
+    "category": "accessories",
+    "brand": "TechZone",
+    "stock": 100,
+    "specs": {"speed": "40Gbps", "power": "100W PD", "video": "8K@30Hz", "length": "2m"}
+  },
+  {
+    "id": "tz-013",
+    "name": "WebCam 4K Pro",
+    "description": "4K webcam with auto-framing, built-in ring light, noise-cancelling microphone.",
+    "price": 149.99,
+    "category": "accessories",
+    "brand": "ClearView",
+    "stock": 22,
+    "specs": {"resolution": "4K 30fps / 1080p 60fps", "fov": "90 degrees", "microphone": "Dual stereo w/ noise cancelling"}
+  },
+  {
+    "id": "tz-014",
+    "name": "NVMe External SSD 2TB",
+    "description": "Portable NVMe SSD with 2000MB/s read speeds, IP67 rated, bus powered.",
+    "price": 179.99,
+    "category": "accessories",
+    "brand": "TechZone",
+    "stock": 45,
+    "specs": {"capacity": "2TB", "speed": "2000MB/s read, 1800MB/s write", "interface": "USB 3.2 Gen 2x2", "durability": "IP67, 3m drop"}
+  },
+  {
+    "id": "tz-015",
+    "name": "GamerBook 16 Gaming Laptop",
+    "description": "16-inch gaming laptop with RTX 4070, Intel i9, 32GB RAM, 240Hz display.",
+    "price": 1799.99,
+    "category": "laptops",
+    "brand": "GamerBook",
+    "stock": 8,
+    "specs": {"processor": "Intel i9-13900HX", "gpu": "RTX 4070 8GB", "ram": "32GB DDR5", "display": "16\" QHD 240Hz"}
+  },
+  {
+    "id": "tz-016",
+    "name": "ErgoWave Split Keyboard",
+    "description": "Ergonomic split mechanical keyboard with tenting, wrist rests, and Kailh Box switches.",
+    "price": 189.99,
+    "category": "keyboards",
+    "brand": "ErgoWave",
+    "stock": 18,
+    "specs": {"switches": "Kailh Box White", "layout": "Split ergonomic", "features": "Tenting, palm rests", "connection": "USB-C"}
+  },
+  {
+    "id": "tz-017",
+    "name": "TrackMaster Ergonomic Trackball",
+    "description": "Wireless trackball mouse with thumb ball, 5 programmable buttons, ergonomic design.",
+    "price": 59.99,
+    "category": "mice",
+    "brand": "TrackMaster",
+    "stock": 25,
+    "specs": {"type": "Trackball", "buttons": "5 programmable", "connection": "2.4GHz / Bluetooth", "battery": "AAA x1, 18 months"}
+  },
+  {
+    "id": "tz-018",
+    "name": "ClearView 24\" FHD Monitor",
+    "description": "Budget-friendly 24-inch Full HD monitor with slim bezels and VESA mount.",
+    "price": 179.99,
+    "category": "monitors",
+    "brand": "ClearView",
+    "stock": 40,
+    "specs": {"resolution": "1920x1080", "panel": "IPS", "refresh_rate": "75Hz", "ports": "HDMI, DP, VGA"}
+  },
+  {
+    "id": "tz-019",
+    "name": "PowerStation 140W GaN Charger",
+    "description": "4-port GaN charger with 140W total output, foldable prongs, travel-friendly.",
+    "price": 79.99,
+    "category": "accessories",
+    "brand": "TechZone",
+    "stock": 70,
+    "specs": {"output": "140W total (100W + 30W + 5W + 5W)", "ports": "2x USB-C, 2x USB-A", "tech": "GaN III"}
+  },
+  {
+    "id": "tz-020",
+    "name": "SoundStage Desk Speaker Pair",
+    "description": "USB-powered desktop speakers with Bluetooth, 20W total output, wood grain finish.",
+    "price": 89.99,
+    "category": "accessories",
+    "brand": "SoundStage",
+    "stock": 30,
+    "specs": {"output": "20W (10W x 2)", "connection": "USB / Bluetooth 5.3 / 3.5mm", "drivers": "2.5\" full-range"}
+  }
+]

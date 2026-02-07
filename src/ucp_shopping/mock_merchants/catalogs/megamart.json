@@ -1,0 +1,202 @@
+[
+  {
+    "id": "mm-001",
+    "name": "ValueBook 15 Laptop",
+    "description": "Budget 15.6-inch laptop with Intel i5, 8GB RAM, 256GB SSD. Great for everyday use.",
+    "price": 549.99,
+    "category": "laptops",
+    "brand": "ValueBook",
+    "stock": 50,
+    "specs": {"processor": "Intel i5-1335U", "ram": "8GB DDR4", "storage": "256GB SSD", "display": "15.6\" FHD"}
+  },
+  {
+    "id": "mm-002",
+    "name": "ProBook 15 Laptop",
+    "description": "15.6-inch business laptop with Intel i7, 16GB RAM, 512GB SSD. Reliable and fast.",
+    "price": 849.99,
+    "category": "laptops",
+    "brand": "ProBook",
+    "stock": 18,
+    "specs": {"processor": "Intel i7-13700H", "ram": "16GB DDR5", "storage": "512GB NVMe SSD", "display": "15.6\" FHD IPS"}
+  },
+  {
+    "id": "mm-003",
+    "name": "MegaType Mechanical Keyboard",
+    "description": "Budget mechanical keyboard with Outemu Blue switches, rainbow LED backlight.",
+    "price": 44.99,
+    "category": "keyboards",
+    "brand": "MegaType",
+    "stock": 80,
+    "specs": {"switches": "Outemu Blue", "layout": "Full-size", "backlight": "Rainbow LED", "connection": "USB"}
+  },
+  {
+    "id": "mm-004",
+    "name": "MechStrike Pro Mechanical Keyboard",
+    "description": "Premium mechanical keyboard with Cherry MX Brown switches, per-key RGB, aluminum body.",
+    "price": 119.99,
+    "category": "keyboards",
+    "brand": "MechStrike",
+    "stock": 22,
+    "specs": {"switches": "Cherry MX Brown", "layout": "Full-size", "backlight": "RGB per-key", "connection": "USB-C / Bluetooth"}
+  },
+  {
+    "id": "mm-005",
+    "name": "MegaClick Office Mouse",
+    "description": "Simple wireless office mouse with 1600 DPI, quiet clicks, 12-month battery.",
+    "price": 19.99,
+    "category": "mice",
+    "brand": "MegaMart",
+    "stock": 150,
+    "specs": {"sensor": "1600 DPI optical", "buttons": "3", "battery": "12 months (AA)", "connection": "2.4GHz USB receiver"}
+  },
+  {
+    "id": "mm-006",
+    "name": "PrecisionGlide Wireless Mouse",
+    "description": "High-DPI wireless mouse with 25,600 DPI sensor, ergonomic shape, long battery.",
+    "price": 59.99,
+    "category": "mice",
+    "brand": "PrecisionGlide",
+    "stock": 35,
+    "specs": {"sensor": "25600 DPI optical", "buttons": "6 programmable", "battery": "70 hours", "connection": "2.4GHz / Bluetooth"}
+  },
+  {
+    "id": "mm-007",
+    "name": "MegaView 27\" 4K Monitor",
+    "description": "27-inch 4K monitor with USB-C, HDR400, factory calibrated for accurate colors.",
+    "price": 399.99,
+    "category": "monitors",
+    "brand": "MegaView",
+    "stock": 25,
+    "specs": {"resolution": "3840x2160", "panel": "IPS", "refresh_rate": "60Hz", "hdr": "HDR400"}
+  },
+  {
+    "id": "mm-008",
+    "name": "ClearView 27\" 4K Monitor",
+    "description": "27-inch 4K IPS monitor with USB-C Power Delivery, color-accurate, adjustable stand.",
+    "price": 429.99,
+    "category": "monitors",
+    "brand": "ClearView",
+    "stock": 10,
+    "specs": {"resolution": "3840x2160", "panel": "IPS", "refresh_rate": "60Hz", "ports": "USB-C PD 65W, HDMI 2.1, DP 1.4"}
+  },
+  {
+    "id": "mm-009",
+    "name": "BassBoost Wireless Headphones",
+    "description": "Over-ear wireless headphones with enhanced bass, 30-hour battery, foldable design.",
+    "price": 79.99,
+    "category": "headphones",
+    "brand": "BassBoost",
+    "stock": 60,
+    "specs": {"type": "Over-ear", "bass": "Enhanced bass driver", "battery": "30 hours", "foldable": "Yes"}
+  },
+  {
+    "id": "mm-010",
+    "name": "SoundStage Pro Wireless Headphones",
+    "description": "Premium over-ear headphones with ANC, 40-hour battery, Hi-Res Audio certified.",
+    "price": 179.99,
+    "category": "headphones",
+    "brand": "SoundStage",
+    "stock": 20,
+    "specs": {"type": "Over-ear", "anc": "Active Noise Cancelling", "battery": "40 hours", "codec": "LDAC, aptX HD"}
+  },
+  {
+    "id": "mm-011",
+    "name": "MegaPad XL Desk Mat",
+    "description": "Extra-large desk mat in vegan leather, 36x17 inches, dual-sided (black/brown).",
+    "price": 24.99,
+    "category": "desk_accessories",
+    "brand": "MegaMart",
+    "stock": 90,
+    "specs": {"size": "36\" x 17\"", "material": "Vegan leather", "sides": "Dual-sided black/brown", "features": "Water-resistant"}
+  },
+  {
+    "id": "mm-012",
+    "name": "ErgoRise Monitor Arm",
+    "description": "Gas spring monitor arm for displays up to 32 inches, smooth motion, cable clips.",
+    "price": 79.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 15,
+    "specs": {"compatibility": "17-32\" displays up to 19.8 lbs", "mounting": "C-clamp / grommet", "range": "360° rotation"}
+  },
+  {
+    "id": "mm-013",
+    "name": "ErgoRise Laptop Stand",
+    "description": "Aluminum laptop riser with heat dissipation, adjustable height, fits up to 17\".",
+    "price": 39.99,
+    "category": "ergonomic",
+    "brand": "ErgoRise",
+    "stock": 40,
+    "specs": {"material": "Aluminum alloy", "compatibility": "10-17\" laptops", "height": "6 adjustable levels"}
+  },
+  {
+    "id": "mm-014",
+    "name": "LumiDesk LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with USB port, multiple color temperatures, touch control.",
+    "price": 49.99,
+    "category": "lighting",
+    "brand": "LumiDesk",
+    "stock": 30,
+    "specs": {"brightness": "1200 lumens", "color_temp": "2700K-6500K", "features": "USB-A charge port", "mount": "Base"}
+  },
+  {
+    "id": "mm-015",
+    "name": "MegaCharge USB-C Hub 7-in-1",
+    "description": "Compact USB-C hub with HDMI 4K, 3 USB-A, SD/microSD, 100W passthrough.",
+    "price": 34.99,
+    "category": "accessories",
+    "brand": "MegaMart",
+    "stock": 65,
+    "specs": {"ports": "HDMI, 3x USB-A 3.0, SD, microSD, USB-C PD", "power": "100W passthrough", "video": "4K@30Hz"}
+  },
+  {
+    "id": "mm-016",
+    "name": "ComfortZone Gel Wrist Rest Keyboard",
+    "description": "Keyboard wrist rest with cooling gel, ergonomic design, non-slip base.",
+    "price": 16.99,
+    "category": "ergonomic",
+    "brand": "ComfortZone",
+    "stock": 55,
+    "specs": {"size": "17.3\" x 3.5\"", "fill": "Cooling gel + memory foam", "cover": "Lycra fabric"}
+  },
+  {
+    "id": "mm-017",
+    "name": "DeskTidy Cable Management Kit",
+    "description": "Cable organizer bundle with under-desk tray, clips, and velcro ties.",
+    "price": 24.99,
+    "category": "organizers",
+    "brand": "DeskTidy",
+    "stock": 70,
+    "specs": {"includes": "Under-desk tray, 15 clips, 5 velcro straps, 1 cable sleeve"}
+  },
+  {
+    "id": "mm-018",
+    "name": "MegaView Webcam 1080p",
+    "description": "1080p webcam with auto-focus, built-in microphone, privacy shutter.",
+    "price": 39.99,
+    "category": "accessories",
+    "brand": "MegaView",
+    "stock": 50,
+    "specs": {"resolution": "1080p 30fps", "fov": "78 degrees", "microphone": "Mono", "privacy": "Physical shutter"}
+  },
+  {
+    "id": "mm-019",
+    "name": "PowerBank 20000mAh",
+    "description": "High-capacity portable charger with 65W USB-C PD, charges laptops and phones.",
+    "price": 49.99,
+    "category": "accessories",
+    "brand": "MegaMart",
+    "stock": 45,
+    "specs": {"capacity": "20000mAh", "output": "65W USB-C PD + 22.5W USB-A", "ports": "1 USB-C, 2 USB-A", "display": "LED percentage"}
+  },
+  {
+    "id": "mm-020",
+    "name": "MegaStrip Smart Power Strip",
+    "description": "WiFi smart power strip with 4 outlets, 3 USB ports, surge protection, voice control.",
+    "price": 29.99,
+    "category": "accessories",
+    "brand": "MegaMart",
+    "stock": 55,
+    "specs": {"outlets": "4 AC + 3 USB", "surge": "900J protection", "smart": "WiFi, Alexa/Google compatible", "cord": "6 ft"}
+  }
+]
